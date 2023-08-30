@@ -1,0 +1,2 @@
+# competiotion
+baselines, tricks, summary.
